@@ -1,0 +1,100 @@
+.MainBG {
+    background-image: url('../images/lima.jpg');
+    background-size:contain;
+
+}
+.abme{
+    background-image: url('../images/rain.jpg');
+    background-size: contain;
+}
+
+.tab {
+    margin: 50%;
+}
+.hometitle{
+    font-size: 87px;
+    color:snow;
+    font-family: 'Times New Roman';
+    text-align: center;
+}
+.homesubtitle{
+    color:snow;
+    font-family: 'Times New Roman';
+    text-align: center;
+}
+.menuletters{
+    font-family: Cambria;
+    font-size: 25px;
+}
+.tab {
+    font-family: monospace;
+    font-size: 86px;
+    color:honeydew;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.imageright{
+    margin-right:100px;
+    margin-left: 800px;
+    display:block;
+}
+.imageleft{
+    margin-right: 800px;
+    margin-left: 100px;
+    display: block;
+}
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  /* Clear floats after image containers */
+  .row {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .header {
+      width: 100vw;
+      background-color: grey;
+      padding-left: 10px;
+      padding-right: 10px;
+  }
+.titlebro{
+    font-family: monospace;
+    font-size: 86px;
+    color: ivory;
+    text-align: center;
+}
+.menu{
+    color: lavenderblush;
+    font-family: monospace;
+}
+.center{
+    height:auto;
+    margin-right: 25%;
+    margin-left: 25%;
+    width: 50%;
+    text-align: center;
+
+}
+.tabtitle{
+    font-size: 35px;
+    color: whitesmoke;
+    font-family: monospace;
+}
+.footer{
+    background-color: grey;
+    padding-right: 18px;
+    padding-left: 18px;
+    position: absolute;
+    width: 100%;
+
+}
+.picsize{
+width: 100%;
+
+}
